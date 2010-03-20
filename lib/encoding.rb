@@ -1,0 +1,1 @@
+require_relative 'encoding/fallbacking_converter'
